@@ -1,27 +1,23 @@
-name: Makefile CI
 
-on:
-  push:
-    branches: [ "master" ]
-  pull_request:
-    branches: [ "master" ]
 
+name: Megadrive-artifact
+on: [push, pull_request]
+
+# Should do linux, mac and windows.
 jobs:
-  build:
-
-    runs-on: ubuntu-latest
-
+  linux:
+    runs-on: ubuntu-18.04
     steps:
-    - uses: actions/checkout@v3
-
-    - name: configure
-      run: ./configure
-
-    - name: Install dependencies
-      run: make
-
-    - name: Run check
-      run: make check
-
-    - name: Run distcheck
-      run: make distcheck
+      - name: checkout
+        uses: actions/checkout@v2
+        
+      - name: dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get -y install autoconf libprotobuf-dev protobuf-compiler libminiupnpc-dev libzmq3-dev libqrencode-dev libqt5gui5 libqt5core5a libqt5dbus5 qttools5-dev qttools5-dev-tools libtool pkg-config libdb-dev libdb++-dev libboost-all-dev libssl1.0.0 libssl1.0-dev libevent-dev
+          
+      - name: build
+        run: |
+          ./autogen.sh
+          ./configure --with-gui=qt5 --with-incompatible-bdb
+          make
