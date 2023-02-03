@@ -35,5 +35,11 @@ cd build
 cmake -G "Visual Studio 12 Win64" ..
 ```
 
+### Actions - Artifact files (work in progress)
+[makefile.yml](actions/workflows/makefile.yml)
+[build.yml](actions/workflows/build.yml)
+
+
+
 And then do Build.
 Good luck!
