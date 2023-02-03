@@ -36,8 +36,8 @@ cmake -G "Visual Studio 12 Win64" ..
 ```
 
 ### Actions - Artifact files (work in progress)
-- [makefile.yml](actions/workflows/makefile.yml)
-- [build.yml](actions/workflows/build.yml)
+- [makefile.yml](https://github.com/megadrive-crypto/megadrive-coin/actions/makefile.yml)
+- [build.yml](https://github.com/megadrive-crypto/megadrive-coin/actions/build.yml)
 
 
 
