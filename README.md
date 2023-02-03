@@ -36,8 +36,8 @@ cmake -G "Visual Studio 12 Win64" ..
 ```
 
 ### Actions - Artifact files (work in progress)
-[makefile.yml](actions/workflows/makefile.yml)
-[build.yml](actions/workflows/build.yml)
+- [makefile.yml](actions/workflows/makefile.yml)
+- [build.yml](actions/workflows/build.yml)
 
 
 
