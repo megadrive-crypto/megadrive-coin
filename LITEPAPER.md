@@ -2,13 +2,13 @@ _____
 
 ![alt text](https://github.com/alexorbit/megadrivecoin/blob/main/assets/Captura%20de%20Tela%202023-01-26%20a%CC%80s%2004.25.09.png?raw=true)
 
- |           |
- |  (\__/)  |
- |  (•ㅅ•)   |
- |  / 　 づ |
- |MEGADRIVE |
- |  COIN    |
- |_____|
+ . |           |
+ . |  (\__/)  |
+ . |  (•ㅅ•)   |
+ . |  / 　 づ |
+ . |MEGADRIVE |
+ . |  COIN    |
+ . |_____|
 
 # MEGADRIVE COIN
 
@@ -77,4 +77,4 @@ Non-fungible tokens (NFTs) are digital assets that are unique and cannot be repl
 
 14. Develop a system for listing and trading Megadrive coins on the DEX.
 
-15. Develop a system for monitoring and auditing the Meg
+15. Develop a system for monitoring and auditing the MegaDex Ecosystem.
