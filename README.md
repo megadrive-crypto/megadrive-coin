@@ -1,3 +1,5 @@
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/5611a4ac8b194ede8ede620aa9011394)](https://www.codacy.com/gh/megadrive-crypto/megadrive-coin/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=megadrive-crypto/megadrive-coin&amp;utm_campaign=Badge_Grade)
+
 
 ## Building Megadrive coin 
 
