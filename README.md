@@ -1,6 +1,8 @@
 
 ## Building Megadrive coin 
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/9e8941a971d84c43bef22ed7a5827131)](https://app.codacy.com/gh/megadrive-crypto/megadrive-coin?utm_source=github.com&utm_medium=referral&utm_content=megadrive-crypto/megadrive-coin&utm_campaign=Badge_Grade_Settings)
+
 ### On *nix
 
 Dependencies: GCC 4.7.3 or later, CMake 2.8.6 or later, and Boost 1.55.
