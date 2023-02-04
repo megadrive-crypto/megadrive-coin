@@ -7,7 +7,12 @@
   <img width="200" src="https://avatars.githubusercontent.com/u/124246008?s=400&u=a5bd256981854b0f0dbbbb3e9c23b301b97a7281&v=4">
 </p>
 
+### A working in progress
+
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/5611a4ac8b194ede8ede620aa9011394)](https://www.codacy.com/gh/megadrive-crypto/megadrive-coin/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=megadrive-crypto/megadrive-coin&amp;utm_campaign=Badge_Grade)
+![Build Status](https://github.com/megadrive-crypto/megadrive-coin/actions/workflows/build.yml/badge.svg)
+![Build Status](https://github.com/megadrive-crypto/megadrive-coin/actions/workflows/makefile.yml/badge.svg)
+
 
 ## Build on
 
