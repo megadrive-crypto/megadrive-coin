@@ -1,4 +1,13 @@
+
+
+
+<p align="center">
+  <img width="180" src="https://avatars.githubusercontent.com/u/124246008?s=400&u=a5bd256981854b0f0dbbbb3e9c23b301b97a7281&v=4">
+</p>
+
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/5611a4ac8b194ede8ede620aa9011394)](https://www.codacy.com/gh/megadrive-crypto/megadrive-coin/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=megadrive-crypto/megadrive-coin&amp;utm_campaign=Badge_Grade)
+
+# MegaDrive Coin source code
 
 
 ## Building Megadrive coin 
