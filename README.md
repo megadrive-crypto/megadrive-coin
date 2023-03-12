@@ -1,10 +1,13 @@
 <h1 align="center">
-  MegaDrive Coin source code
+
+  <img src="https://avatars.githubusercontent.com/u/124246008?s=100&u=a5bd256981854b0f0dbbbb3e9c23b301b97a7281&v=4"/>
+ 
+ MegaDrive Coin source code
+
 </h1>
 
 
 <span style="width:100%; text-align:center; margin:0px auto;">
-<img src="https://avatars.githubusercontent.com/u/124246008?s=100&u=a5bd256981854b0f0dbbbb3e9c23b301b97a7281&v=4"/>
 </span>
 
 ### A working in progress
